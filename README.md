@@ -4,7 +4,7 @@ The project is mainly about entity link technology. The input of the task is a p
 ## Model
 The model consists of entity-encoder and mention-encoder. Entity-encoder is used to model entity and description of entity. Mention-encoder is used to model mention and
 context of mention. Specially, I split context into left context and right context so that this model can capture more information about mention.  
- ![image](https://github.com/woyaonidsh/Mutimode-language-generation/blob/master/model.png) 
+ ![image](https://github.com/woyaonidsh/Entity_linkr/model.png) 
 ## 
 
 
