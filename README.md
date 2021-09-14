@@ -1,6 +1,11 @@
 ## Introduction  
-&nbsp;&nbsp;The project is mainly about entity link technology. The input of the task is a piece of text and the corresponding entity, and the output is the related entity set of the entity in the entity database.
+The project is mainly about entity link technology. The input of the task is a piece of text and the corresponding entity, and the output is the related entity set of the entity in the entity database. I use a two-tower and hierarchical neural network to solve this problem
 
+## Model
+The model consists of entity-encoder and mention-encoder. Entity-encoder is used to model entity and description of entity. Mention-encoder is used to model mention and
+context of mention. Specially, I split context into left context and right context so that this model can capture more information about mention.  
+
+## 
 
 
 
