@@ -7,7 +7,7 @@ context of mention. Specially, I split context into left context and right conte
  ![image](https://github.com/woyaonidsh/Entity_link/blob/main/model.png)  
 
 ## Resource
-The data set and the trained model were uploaded to the online disk. the [data set and trained model](https://pan.baidu.com/s/1eN1ACCW3-pQvAAsjQvGZUA) passward : 2021  
+The data set and the trained model were uploaded to the online disk. the [data set and trained model](https://pan.baidu.com/s/1eN1ACCW3-pQvAAsjQvGZUA)&nbsp;&nbsp;&nbsp;&nbsp;passward : 2021  
 
 ## Environments
 `python 3.7`  
