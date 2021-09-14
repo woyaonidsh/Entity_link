@@ -20,7 +20,7 @@ The fist step is to download data set and use the following introduction:
 
 ## Test
 Download the data set and trained model. Then, use the following introduction:  
-`python test_main.py`  
+`python test.py`  
 
 ## Attention
 I used the `BertTokenizer` to change words into tokens, so you need to prepare `Bert` in advance. The uploaded data set is also processed and I don't upload raw data in online disk.  
