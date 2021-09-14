@@ -1,7 +1,5 @@
-# Entity_link  
-
 ## Introduction  
-&nbsp;&nbsp;The project is mainly about entity link technology. The input of task is a piece of text and corresponding entities 
+&nbsp;&nbsp;The project is mainly about entity link technology. The input of the task is a piece of text and the corresponding entity, and the output is the related entity set of the entity in the entity database.
 
 
 
